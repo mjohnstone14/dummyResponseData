@@ -1,0 +1,20 @@
+{
+  "dummyResponseArray": [
+    {
+      "disposition": "moody",
+      "condition": "bad",
+      "size": "f"
+    },
+    {
+      "dispostion": "happy",
+      "condition": "good",
+      "e": "f"
+    },
+    {
+      "dispostion": "miffed",
+      "condition": "soso",
+      "e": "f"
+    }
+  ],
+  "string": "Hello World"
+}
